@@ -8,6 +8,9 @@
 
 A wrapper of [Syncthing](https://github.com/syncthing/syncthing) for Android.
 
+> [!IMPORTANT]
+> This repo is merging into https://github.com/nel0x/syncthing-android. All future development happens there.
+
 This repository produces and publishes the Google Play build of Syncthing-Fork shown on <a href="https://play.google.com/store/apps/details?id=com.github.catfriend1.syncthingandroid">this listing</a>.
 It regularly mirrors the <a href="https://github.com/Catfriend1/syncthing-android">upstream project</a> and applies only changes required to stay compliant with Google Play policies.
 
